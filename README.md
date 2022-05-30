@@ -11,4 +11,4 @@ Correlation calculations led to the dropping of 'Age' from the training model du
 
 Interestingly, through this analysis I found that the Diabetes Pedigree Function had the lowest Spearman Correlation score (.17) of the selected features. This is noteworthy because it raises the question of if the methodology needs to be reassesed and fine-tuned.
 
-In addition, the finding of pregnancies having such a relatively strong correlation with diabetes outcome led me to pondering a few things. Would it be plausible to investigate the signaling path
+In addition, the finding of pregnancies having such a relatively strong correlation with diabetes outcome led me to pondering a few things. Would it be plausible to investigate the signaling pathway involved in the placenta development/maintenance for the possible finding of previously unknown factors involved in insulin resistance? Is it possible that these factors become active in pregnant women due to placenta development, but silently become active in non-pregnant women or men when insulin resistance develops?
