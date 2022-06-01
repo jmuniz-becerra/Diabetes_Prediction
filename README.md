@@ -1,6 +1,26 @@
 # Diabetes_Prediction
 Creation of a logistic regression model to predict whether a patient has diabetes.
 
+TLDR
+
+WHAT----------------------------------------------------------------------------------------------
+
+Construction of a logistic regression model with 78% accuracy to predict if patient has diabetes.
+
+WHY-----------------------------------------------------------------------------------------------
+
+To begin working towards a predictive model to help in the preventative healthcare setting to aid healthcare workers and patients.
+
+HOW-----------------------------------------------------------------------------------------------
+
+Utilization of top 4 performing features (BMI, Glucose, Pregnancies, Diabetes Pedigree Function) post-Spearman correlation analysis between features and diabetes outcome.
+
+IMPROVEMENTS/FUTURE DIRECTION---------------------------------------------------------------------
+
+Data is limited in size. Insulin feature had close to 50% of its values at 0; possible impact on correlation between insulin and diabetes outcome, further sampling is needed. Possible investigation into placenta development signaling factors due to pregnancies being highly correlated to diabetes outcome.
+
+MORE DETAILS BELOW--------------------------------------------------------------------------------
+
 Here I utilized a logistic regression model for the classification problem of predicting if a patient has diabetes or not. The logistic regression model performed with 78% accuracy utilzing features (BMI, Glucose, Pregnancies, and Diabetes Pedigree Function).
 
 Consruction of predictive models in the healthcare setting is very helpful, especially when assessing if a patient is on course to possibly contracting a disease. Such a model would be valuable in preventative care to help healthcare workers and patients.
