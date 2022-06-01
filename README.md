@@ -13,7 +13,7 @@ To begin working towards a predictive model to help in the preventative healthca
 
 HOW-----------------------------------------------------------------------------------------------
 
-Utilization of top 4 performing features (BMI, Glucose, Pregnancies, Diabetes Pedigree Function) post-Spearman correlation analysis between features and diabetes outcome.
+Utilization of top 4 performing features (BMI, Glucose, Pregnancies, Diabetes Pedigree Function) post-Spearman correlation analysis between features and diabetes outcome in a logistic regression model.
 
 IMPROVEMENTS/FUTURE DIRECTION---------------------------------------------------------------------
 
